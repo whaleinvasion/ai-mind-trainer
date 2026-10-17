@@ -1,0 +1,14 @@
+{
+  "name": "Mind Trainer — тренування пам'яті",
+  "short_name": "Mind Trainer",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1b1f2a",
+  "theme_color": "#1b1f2a",
+  "lang": "uk",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
